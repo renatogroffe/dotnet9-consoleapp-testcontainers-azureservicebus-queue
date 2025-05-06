@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36017.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppAzureServiceBusQueue", "ConsoleAppAzureServiceBusQueue.csproj", "{9E3890AB-5371-C0E1-A3BB-C5BCDEA94845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E3890AB-5371-C0E1-A3BB-C5BCDEA94845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3890AB-5371-C0E1-A3BB-C5BCDEA94845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3890AB-5371-C0E1-A3BB-C5BCDEA94845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3890AB-5371-C0E1-A3BB-C5BCDEA94845}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB8692E4-E279-4D75-AAED-46966D24EFD8}
+	EndGlobalSection
+EndGlobal
