@@ -16,7 +16,7 @@ CommandLineHelper.Execute("docker container ls",
 
 var serviceBusContainer = new ServiceBusBuilder()
   .WithImage("mcr.microsoft.com/azure-messaging/servicebus-emulator:1.1.2")
-  .WithEnvironment("ACCEPT_EULA", "Y")
+  .WithAcceptLicenseAgreement(true)
   .Build();
 await serviceBusContainer.StartAsync();
 
