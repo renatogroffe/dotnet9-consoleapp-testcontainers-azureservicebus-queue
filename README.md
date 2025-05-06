@@ -1,7 +1,7 @@
 # dotnet9-consoleapp-testcontainers-azureservicebus-queue
-Console App criada em .NET 9 para testes com Azurite + Azure Queue Storage a partir do uso do projeto Testcontainers.
+Console App criada em .NET 9 para testes com Azure Service Bus + Queues a partir do uso do projeto Testcontainers.
 
-Documentação sobre Azurite + Azure Service Bus: https://testcontainers.com/modules/azure-servicebus/
+Documentação sobre Testcontainers + Azure Service Bus: https://testcontainers.com/modules/azure-servicebus/
 
 Documentação Azure Service Bus emulator:
 - https://learn.microsoft.com/en-us/azure/service-bus-messaging/overview-emulator
